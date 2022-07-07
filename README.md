@@ -1,4 +1,3 @@
-A public test mod I have made to test my abilites with Forge. None of the content in this mod will be finished, please check my Github repositories for future mod realses.
+A public test mod that I did to test my abilities with Forge. No content of this mod will be completed, please check my Github repositories for future mod releases.
 
-The Ruby Sword texture was used from Oakstar519 and his Planet Minecraft post:
-https://www.planetminecraft.com/texture-pack/red-s-sword/
+The Ruby Sword texture was used from Oakstar519 and his Planet Minecraft post: https://www.planetminecraft.com/texture-pack/red-s-sword/
